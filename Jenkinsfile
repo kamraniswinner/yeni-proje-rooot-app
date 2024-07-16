@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/kamraniswinner/rooot-app.git'
+                git 'https://github.com/kamraniswinner/yeni-proje-rooot-app.git'
             }
         }
 
